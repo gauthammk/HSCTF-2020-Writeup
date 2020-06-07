@@ -1,6 +1,8 @@
 # HSCTF-2020-Writeup
 
-![image](logo.jpg)
+<p align="center">
+  <img src="logo.jpg">
+</p>
 
 ## Overview
 
