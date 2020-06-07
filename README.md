@@ -1,4 +1,4 @@
-# HSCTF-2020
+# HSCTF-2020-Writeup
 
 ![image](logo.jpg)
 
